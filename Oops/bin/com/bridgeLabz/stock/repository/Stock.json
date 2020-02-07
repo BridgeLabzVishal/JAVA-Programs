@@ -1,0 +1,44 @@
+{
+	"SONY": [
+		{
+			"PricePerShares": 600.0,
+			"NumberOfShares": 46,
+			"Name": "Sony_Software_Center"
+		}
+	],
+	"SASKEN": [
+		{
+			"PricePerShares": 200.0,
+			"NumberOfShares": 18,
+			"Name": "Sasken"
+		}
+	],
+	"MICROSOFT": [
+		{
+			"PricePerShares": 100.0,
+			"NumberOfShares": 24,
+			"Name": "Microsoft_Pvt_Ltd"
+		}
+	],
+	"TCS": [
+		{
+			"PricePerShares": 50.0,
+			"NumberOfShares": 20,
+			"Name": "Tata_Consultancy_Services"
+		}
+	],
+	"WIPRO": [
+		{
+			"PricePerShares": 500.0,
+			"NumberOfShares": 34,
+			"Name": "Wipro_InfoTech_Ltd"
+		}
+	],
+	"INFOSYS": [
+		{
+			"PricePerShares": 1000.0,
+			"NumberOfShares": 32,
+			"Name": "Infosys_Software_Center"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"Vikas_Pvt_Ltd": [
+		{
+			"PricePerShare": 200.0,
+			"Buyer_Name": "Vikas_Pvt_Ltd",
+			"Trade_Initated ": "16-01-2020 10:39:02",
+			"Shares_Bought": 2,
+			"Company_Name": "Sasken",
+			"Company_Symbol": "SASKEN",
+			"Total_Price": 400.0
+		}
+	],
+	"AMRESH_PVT_LTD": [
+		{
+			"PricePerShare": 100.0,
+			"Buyer_Name": "AMRESH_PVT_LTD",
+			"Trade_Initated ": "18-12-2019 18:07:19",
+			"Shares_Bought": 2,
+			"Company_Name": "Microsoft_Pvt_Ltd",
+			"Company_Symbol": "MICROSOFT",
+			"Total_Price": 200.0
+		}
+	],
+	"WEB_INFOTECH_PVT_LTD": [
+		{
+			"PricePerShare": 600.0,
+			"Buyer_Name": "WEB_INFOTECH_PVT_LTD",
+			"Trade_Initated ": "18-12-2019 18:05:06",
+			"Shares_Bought": 2,
+			"Company_Name": "Sony_Software_Center",
+			"Company_Symbol": "SONY",
+			"Total_Price": 1200.0
+		}
+	],
+	"BRIDGELABZ_PVT_LTD": [
+		{
+			"PricePerShare": 500.0,
+			"Buyer_Name": "BRIDGELABZ_PVT_LTD",
+			"Trade_Initated ": "18-12-2019 18:08:39",
+			"Shares_Bought": 6,
+			"Company_Name": "Wipro_InfoTech_Ltd",
+			"Company_Symbol": "WIPRO",
+			"Total_Price": 3000.0
+		}
+	]
+}
